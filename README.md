@@ -12,13 +12,13 @@ This Github provides hardware design files for Dual Roundy ESP32 and Common hard
   - [Getting Started Guide](https://github.com/sbcshop/Dual_Roundy_ESP32_Software) - This repo contains Dual Roundy ESP32 Getting Started instructions.
 
 ## Related Products  
-  * [2x2 Display with Pico W (Round)](https://shop.sb-components.co.uk/products/2x2-quad-display-board?variant=41538301427795)
+  * [2x2 Display with ESP32 S3 (Round)](https://shop.sb-components.co.uk/products/2x2-quad-display-board?variant=41538301493331)
 
-    ![2x2 Display with Pico W (Round)](https://shop.sb-components.co.uk/cdn/shop/files/mainroundpico.png?v=1720526791&width=300)
-  
-  * [2x2 Display with Pico W (Square)](https://shop.sb-components.co.uk/products/2x2-quad-display-board?variant=41538301460563)
+    ![2x2 Display with ESP32 S3 (Round)](https://shop.sb-components.co.uk/cdn/shop/files/mainroundesp32.png?v=1720527042&width=300)
+    
+  * [2x2 Display with ESP32 S3 (Square)](https://shop.sb-components.co.uk/products/2x2-quad-display-board?variant=41538301526099)
 
-    ![2x2 Display with Pico W (Square)](https://shop.sb-components.co.uk/cdn/shop/files/squarepico.png?v=1720527004&width=300)
+    ![2x2 Display with ESP32 S3 (Square)](https://shop.sb-components.co.uk/cdn/shop/files/mainsquareesp32.png?v=1720527077&width=300)
     
   * [Touchsy - 3.2" Touch LCD Display Based on ESP32](https://shop.sb-components.co.uk/products/touchsy-3-2-touch-lcd-display-based-on-esp32-mcu?variant=40828141174867)
 
@@ -27,7 +27,7 @@ This Github provides hardware design files for Dual Roundy ESP32 and Common hard
   * [Rotary Encoder - LED Array & Touch LCD Powered by ESP32](https://shop.sb-components.co.uk/products/rotary-encoder-led-array-touch-lcd-for-esp32-pico-hat?variant=41002601709651)
 
     ![Rotary Encoder - LED Array & Touch LCD Powered by ESP32](https://shop.sb-components.co.uk/cdn/shop/files/RotaryEncoder-LEDArray_TouchLCDforESP32PicoHAT_6.png?v=1710413189&width=300)
-
+    
 
 ## Product License
 
